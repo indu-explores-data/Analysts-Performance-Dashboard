@@ -91,10 +91,14 @@ Highlights workload imbalance, service risks, and improvement opportunities.
 
 ---
 
-## 🔗 Connect / Feedback
+## 🔗 Connect with Me
 
-Connect with me on LinkedIn for feedback or collaboration:
+Let’s connect on LinkedIn for project discussions or data-driven collaborations:
 
-https://www.linkedin.com/in/indu-r-3a3767170/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/indu-r-3a3767170/)
 
-⭐ If you found this project helpful, please star the repository. Contributions and suggestions are welcome!
+---
+
+## 🙌 Feedback & Support
+
+If you found this project helpful, please ⭐ star the repository and share your thoughts. Suggestions and contributions are always welcome!
