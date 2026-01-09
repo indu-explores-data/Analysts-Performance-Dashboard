@@ -30,7 +30,7 @@ It supports data-driven decision-making for team leads, managers, and operations
 
 ## 📷 Visualizations & Dashboard Pages
 
-![Analysts Performance Dashboard] 
+![Analysts Performance Dashboard](images/Analysts%20Performance%20Dashboard.png)
 
 ### 👨‍💼 Analyst Performance Overview  
 Shows total analysts, active analysts, and average ticket load per analyst.
